@@ -1,0 +1,10 @@
+{
+  "news": [
+    {
+      "title": "Добро пожаловать в SEGMENT",
+      "date": "16 ноября 2026",
+      "author": "Команда SEGMENT",
+      "text": "## Первая версия\nСборка на Minecraft 1.21.1 с Fabric.\n\n- Скины через CustomSkinLoader\n- Свои скайбоксы"
+    }
+  ]
+}
