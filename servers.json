@@ -1,3 +1,6 @@
 {
-  "servers": []
+  "servers": [
+    { "name": "SEGMENT", "address": "play.segment.ru" },
+    { "name": "Резерв", "address": "95.31.12.40:25565" }
+  ]
 }
