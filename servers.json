@@ -1,6 +1,6 @@
 {
   "servers": [
-    { "name": "SEGMENT", "address": "segmentru.mcmod.ru" },
-    { "name": "Резерв", "address": "95.31.12.40:25565" }
+    { "name": "SEGMENT_RU", "address": "segmentru.mcmod.ru" },
+    { "name": "SEGMENT", "address": "segment.mcmod.ru" }
   ]
 }
