@@ -1,0 +1,58 @@
+{
+  "formatVersion": 1,
+  "version": "0.1.0",
+  "minecraft": "1.21.1",
+  "loader": {
+    "type": "fabric",
+    "version": "0.20.1"
+  },
+  "jvmArgs": [
+    "-XX:+UseG1GC",
+    "-XX:+ParallelRefProcEnabled",
+    "-XX:MaxGCPauseMillis=200"
+  ],
+  "recommendedRamMb": 4096,
+  "minRamMb": 3072,
+  "news": [
+    {
+      "title": "Добро пожаловать в SEGMENT",
+      "date": "16 ноября 2026",
+      "author": "Команда SEGMENT",
+      "text": "## Первая версия\nСборка на Minecraft 1.21.1 с Fabric.\n\n- Скины через CustomSkinLoader\n- Свои скайбоксы"
+    }
+  ],
+  "files": [
+    {
+      "path": "mods/CustomSkinLoader_Universal-15.1.jar",
+      "url": "https://edge.forgecdn.net/files/9023/814/CustomSkinLoader_Universal-15.1.jar",
+      "sha1": "324e6921ecd576e44875981466e7f22170b6541a",
+      "size": 222917
+    },
+    {
+      "path": "mods/customskyboxes-mc1.21.1-1.0.4.2.jar",
+      "url": "https://edge.forgecdn.net/files/9388/383/customskyboxes-mc1.21.1-1.0.4.2.jar",
+      "sha1": "ea2394431b3b60201e3ac0c5459a9d8a89e78616",
+      "size": 333990
+    },
+    {
+      "path": "mods/fabric-api-0.116.18-1.21.1.jar",
+      "url": "https://edge.forgecdn.net/files/9527/610/fabric-api-0.116.18-1.21.1.jar",
+      "sha1": "584d303f646287ee6be059ecb2fc451255be9ee9",
+      "size": 2453884
+    },
+    {
+      "path": "mods/qackEngineMod-1.7.1-1.21.1-fabric.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/v0.1.0/mods_qackEngineMod-1.7.1-1.21.1-fabric.jar",
+      "sha1": "97a2205670f170f35f858d61e8d137fbb240a164",
+      "size": 2142549
+    }
+  ],
+  "managedDirs": [
+    "mods"
+  ],
+  "overrides": {
+    "url": "https://github.com/KineSerpure/segment-pack/releases/download/v0.1.0/overrides.zip",
+    "sha1": "2452ce49b320b2cd2b8a67fc779953104994ea38",
+    "size": 400
+  }
+}
