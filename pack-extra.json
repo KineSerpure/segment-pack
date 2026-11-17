@@ -21,5 +21,15 @@
       "size": 5389006,
       "added": "17 ноября 2026"
     }
+  ],
+  "allowed": [
+    {
+      "id": "audioplayer",
+      "name": "AudioPlayer",
+      "sha1": "28778446f57145ed30721c2bb03af8a6aa6e1664",
+      "file": "audioplayer-fabric-1.21.1-1.13.2.jar",
+      "version": "1.21.1-1.13.2",
+      "added": "17 ноября 2026"
+    }
   ]
 }
