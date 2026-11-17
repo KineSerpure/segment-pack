@@ -6,6 +6,13 @@
       "sha1": "6776c0340845887477bfa463acc736ce7fcb6de5",
       "size": 2791343,
       "added": "17 ноября 2026"
+    },
+    {
+      "path": "mods/sodium-fabric-0.8.13+mc1.21.1.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/sodium-fabric-0.8.13-mc1.21.1.jar",
+      "sha1": "003c114c85ca88ef3362e018deb6aca0c682d6a1",
+      "size": 1574609,
+      "added": "17 ноября 2026"
     }
   ]
 }
