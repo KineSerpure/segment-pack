@@ -13,6 +13,13 @@
       "sha1": "003c114c85ca88ef3362e018deb6aca0c682d6a1",
       "size": 1574609,
       "added": "17 ноября 2026"
+    },
+    {
+      "path": "mods/sodiumdynamiclights-fabric-1.0.10-1.21.1.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/sodiumdynamiclights-fabric-1.0.10-1.21.1.jar",
+      "sha1": "11bff7127c2d01a97c931cda6012c8d2c3e1f39f",
+      "size": 899434,
+      "added": "17 ноября 2026"
     }
   ]
 }
