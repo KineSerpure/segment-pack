@@ -55,6 +55,13 @@
       "sha1": "5624eea73f251c70a9489192d326f9b4aab3b13c",
       "size": 188035,
       "added": "18 ноября 2026"
+    },
+    {
+      "path": "mods/modmenu-11.0.5.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/modmenu-11.0.5.jar",
+      "sha1": "2321d890a25b5985eba576d7cd8fe9a9c136e33d",
+      "size": 975846,
+      "added": "18 ноября 2026"
     }
   ],
   "allowed": [
