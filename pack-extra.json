@@ -62,6 +62,13 @@
       "sha1": "2321d890a25b5985eba576d7cd8fe9a9c136e33d",
       "size": 975846,
       "added": "18 ноября 2026"
+    },
+    {
+      "path": "mods/segment-menu-1.0.0.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/segment-menu-1.0.0.jar",
+      "sha1": "fe4def5b1d24e1929414f53c3a70c4a8f0b52fff",
+      "size": 55972,
+      "added": "18 ноября 2026"
     }
   ],
   "allowed": [
