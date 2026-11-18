@@ -48,6 +48,13 @@
       "sha1": "c521e23a8be17a941f4f95a76feba9df5e3de5d0",
       "size": 786695,
       "added": "18 ноября 2026"
+    },
+    {
+      "path": "mods/melody_fabric_1.0.10_MC_1.21.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/melody_fabric_1.0.10_mc_1.21.jar",
+      "sha1": "5624eea73f251c70a9489192d326f9b4aab3b13c",
+      "size": 188035,
+      "added": "18 ноября 2026"
     }
   ],
   "allowed": [
