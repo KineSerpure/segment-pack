@@ -41,6 +41,13 @@
       "sha1": "15b0d87fddc2e40b0c03d6e5b54466fffafb7982",
       "size": 36758572,
       "added": "18 ноября 2026"
+    },
+    {
+      "path": "mods/konkrete_fabric_1.9.9_MC_1.21.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/konkrete_fabric_1.9.9_mc_1.21.jar",
+      "sha1": "c521e23a8be17a941f4f95a76feba9df5e3de5d0",
+      "size": 786695,
+      "added": "18 ноября 2026"
     }
   ],
   "allowed": [
