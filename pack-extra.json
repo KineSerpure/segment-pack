@@ -34,6 +34,13 @@
       "sha1": "e47200680bf129bcddf514a70df2949fe03a146f",
       "size": 276120,
       "added": "18 ноября 2026"
+    },
+    {
+      "path": "mods/fancymenu_fabric_3.10.0_MC_1.21.1.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/fancymenu_fabric_3.10.0_mc_1.21.1.jar",
+      "sha1": "15b0d87fddc2e40b0c03d6e5b54466fffafb7982",
+      "size": 36758572,
+      "added": "18 ноября 2026"
     }
   ],
   "allowed": [
