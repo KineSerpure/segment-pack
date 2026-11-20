@@ -23,6 +23,27 @@
       "nick": "KineSerpure"
     },
     {
+      "name": "«За гранью»",
+      "role": "???",
+      "show": "image",
+      "text": "#! <side=center><color=224,57,62,100> ТЕХНИЧЕСКИЕ РАБОТЫ",
+      "image": "https://i.pinimg.com/736x/8b/43/bb/8b43bb173d30cb570d73ecc5e5afdf72.jpg",
+      "fields": [
+        [
+          "Фракция",
+          "???"
+        ],
+        [
+          "Возраст",
+          "???"
+        ],
+        [
+          "Статус",
+          "Враг"
+        ]
+      ]
+    },
+    {
       "name": "Святыч",
       "role": "???",
       "show": "image",
