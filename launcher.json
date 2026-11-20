@@ -1,8 +1,9 @@
 {
-  "version": "1.12.4",
-  "url": "https://github.com/KineSerpure/segment-pack/releases/download/launcher-v1.12.4/Launcher.exe",
-  "sha1": "20d2c86217521ec1911559e4214e6d1eccc574b2",
-  "size": 16484864,
-  "notes": "## ИТОГОВАЯ ПЕРВАЯ ВЕРСИЯ\nЭто итоговая готовая версия лаунчера для игры на нашем проекте!",
-  "date": "17 ноября 2026"
+  "version": "1.12.6",
+  "url": "https://github.com/KineSerpure/segment-pack/releases/download/launcher-v1.12.6/Launcher.exe",
+  "sha1": "c5057822169fd1929134ebbe77589c516d05baba",
+  "size": 18089984,
+  "notes": "## Что нового?\n- Новый задний фон\n- Исправлены визуальные баги\n- Исправлены проблемы с загрузкой данных",
+  "date": "20 ноября 2026",
+  "required": true
 }
