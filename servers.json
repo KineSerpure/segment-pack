@@ -1,6 +1,12 @@
 {
   "servers": [
-    { "name": "SEGMENT_RU", "address": "segmentru.mcmod.ru" },
-    { "name": "SEGMENT", "address": "segment.mcmod.ru" }
+    {
+      "name": "SEGMENT",
+      "address": "projectsegment.mcmod.ru"
+    },
+    {
+      "name": "SEGMENT_VPN",
+      "address": "projectsegmentnew.mcmod.ru"
+    }
   ]
 }
