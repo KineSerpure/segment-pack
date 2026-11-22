@@ -49,13 +49,13 @@
         ]
       ],
       "text": "#! <side=center><color=224,57,62,100> ТЕХНИЧЕСКИЕ РАБОТЫ\n",
-      "nick": "KineSerpure",
       "seasons": [
         "Сезон 0",
         "Сезон 1",
         "Сезон 2",
         "Сезон 3"
-      ]
+      ],
+      "nick": "KineSerpure"
     },
     {
       "name": "«За гранью»",
