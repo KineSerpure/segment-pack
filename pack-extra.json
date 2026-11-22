@@ -76,6 +76,13 @@
       "sha1": "fb6af86fe19ac106b3f816384d0f52d907986b9a",
       "size": 171890,
       "added": "21 ноября 2026"
+    },
+    {
+      "path": "mods/segment-edge-2.1.0.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/segment-edge-2.1.0.jar",
+      "sha1": "8ffb2fa1e578cf88a7cc5e749bfcf7881faba7fc",
+      "size": 98706,
+      "added": "22 ноября 2026"
     }
   ],
   "allowed": [
