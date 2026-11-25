@@ -146,6 +146,13 @@
       "sha1": "9e084ee8d6b7f020d4ee54f46e8ad4912cabeb35",
       "size": 1127413,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/emberstextapi-fabric-1.21.1-3.0.5.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/emberstextapi-fabric-1.21.1-3.0.5.jar",
+      "sha1": "cd517150094e456e7134fa4218cb62613158a8cf",
+      "size": 2015793,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
