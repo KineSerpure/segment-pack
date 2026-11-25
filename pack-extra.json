@@ -328,6 +328,13 @@
       "sha1": "1876017bbeac89a0640c6a9808dec423e677806c",
       "size": 308889,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/storagedelight-25.12.09-1.21-fabric.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/storagedelight-25.12.09-1.21-fabric.jar",
+      "sha1": "16aafafba834f18d3e044e5af51f7357be58037c",
+      "size": 656279,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
