@@ -104,6 +104,13 @@
       "sha1": "f839c990308271aa85f7d85b710a1d88388295a0",
       "size": 808190,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/Cinematic Interaction-Fabric-1.21.1-0.18.30.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/cinematic-interaction-fabric-1.21.1-0.18.30.jar",
+      "sha1": "b863272256c6237a86d74ca9ccac5f2845005407",
+      "size": 1353606,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
