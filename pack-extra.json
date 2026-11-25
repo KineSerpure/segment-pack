@@ -97,6 +97,13 @@
       "sha1": "28778446f57145ed30721c2bb03af8a6aa6e1664",
       "size": 791232,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/balm-fabric-1.21.1-21.0.67.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/balm-fabric-1.21.1-21.0.67.jar",
+      "sha1": "f839c990308271aa85f7d85b710a1d88388295a0",
+      "size": 808190,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
