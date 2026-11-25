@@ -251,6 +251,13 @@
       "sha1": "029307f5602c0a527aa34c8ab87068513b8dd20e",
       "size": 290596,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/MouseTweaks-fabric-mc1.21-2.26.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/mousetweaks-fabric-mc1.21-2.26.jar",
+      "sha1": "ee81af33a5606ef2cd057e075833d7c69836c210",
+      "size": 75984,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
