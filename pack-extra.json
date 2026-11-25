@@ -139,6 +139,13 @@
       "sha1": "d21ed9b1f84c6611adc5e3304b4d195b240677d4",
       "size": 158260,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/diegesis-fabric-1.21.1-1.0.0-beta.17.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/diegesis-fabric-1.21.1-1.0.0-beta.17.jar",
+      "sha1": "9e084ee8d6b7f020d4ee54f46e8ad4912cabeb35",
+      "size": 1127413,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
