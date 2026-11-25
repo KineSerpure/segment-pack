@@ -265,6 +265,13 @@
       "sha1": "fdd29fa21091896f11de75f30591f62df7213175",
       "size": 1154103,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/Platform-fabric-1.21.1-1.4.2.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/platform-fabric-1.21.1-1.4.2.jar",
+      "sha1": "36fd15b38b7e08f3702250864fd2808c0b976bd4",
+      "size": 837643,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
