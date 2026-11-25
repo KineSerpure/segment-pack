@@ -181,6 +181,13 @@
       "sha1": "6d75a472d56c7cf0e9abc7e654861076e8eff389",
       "size": 3243316,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric (1).jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/forgeconfigapiport-v21.1.6-1.21.1-fabric-1.jar",
+      "sha1": "18bf1f21cd2db6dcd4e42db85eae54e2a49a48ee",
+      "size": 633065,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
