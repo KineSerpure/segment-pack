@@ -237,6 +237,13 @@
       "sha1": "16110734225e99f7da3497368361b8ee89f98db4",
       "size": 1557700,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/lexiconfig-fabric-1.4.22-novel.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/lexiconfig-fabric-1.4.22-novel.jar",
+      "sha1": "d6010c61d88f7b22ec75fa21d10ca2d494bd2035",
+      "size": 278077,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
