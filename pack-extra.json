@@ -447,6 +447,13 @@
       "sha1": "1ef8824995ea5e4e556b354d3195a3187aa1602f",
       "size": 587855,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/YungsCaveBiomes-1.21.1-Fabric-3.1.1.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/yungscavebiomes-1.21.1-fabric-3.1.1.jar",
+      "sha1": "cffaf7a9f2184d6a19255802eac7f9a0b9acaf52",
+      "size": 13130733,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
