@@ -111,6 +111,13 @@
       "sha1": "b863272256c6237a86d74ca9ccac5f2845005407",
       "size": 1353606,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/cloth-config-15.0.140-fabric.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/cloth-config-15.0.140-fabric.jar",
+      "sha1": "5d82342a2df53fd6df712bfdd583a811572918a4",
+      "size": 1157166,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
