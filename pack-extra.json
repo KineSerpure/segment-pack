@@ -216,6 +216,13 @@
       "sha1": "8902cc23368c5b2666c47e4cf230308ca1eca00b",
       "size": 1862615,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/jakes-build-tools-2.0.1.5.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/jakes-build-tools-2.0.1.5.jar",
+      "sha1": "8e1ee89ede04f60aa758e7f0638592836be721c7",
+      "size": 424682,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
