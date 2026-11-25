@@ -405,6 +405,13 @@
       "sha1": "28f46d1f21cf5b1ccb2efbccda6ba66ab2168407",
       "size": 1284146,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/YungsBetterEndIsland-1.21.1-Fabric-3.1.2.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/yungsbetterendisland-1.21.1-fabric-3.1.2.jar",
+      "sha1": "22baef6e01ec03f9c340ce79750954557ef0a758",
+      "size": 522278,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
