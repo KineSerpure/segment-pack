@@ -272,6 +272,13 @@
       "sha1": "36fd15b38b7e08f3702250864fd2808c0b976bd4",
       "size": 837643,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/qackEngineMod-1.7.2-1.21.1-fabric.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/qackenginemod-1.7.2-1.21.1-fabric.jar",
+      "sha1": "aa4e5ff5490b58bb55e5ed798a0a0891a783f516",
+      "size": 2151699,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
