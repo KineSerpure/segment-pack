@@ -160,6 +160,13 @@
       "sha1": "07725f58e05d46e1a3d9bb774e6b96c6fbe5dcb5",
       "size": 114621,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/exposure-fabric-1.21.1-1.9.13.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/exposure-fabric-1.21.1-1.9.13.jar",
+      "sha1": "12ab0a6a56bd08712defb9f5f5526d47f7768325",
+      "size": 1968399,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
