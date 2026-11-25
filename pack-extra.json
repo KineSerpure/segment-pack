@@ -349,6 +349,13 @@
       "sha1": "f33770ba71d3e24b46591cefee106cf0e18d9eb7",
       "size": 364685,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/survival-debug-mod-1.2.2_1.21.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/survival-debug-mod-1.2.2_1.21.jar",
+      "sha1": "204a0821110593fb236ee5d5f25f54d5cc13759a",
+      "size": 49718,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
