@@ -398,6 +398,13 @@
       "sha1": "b833d3d1c5c6226a4757269d124dcb1bd3c36234",
       "size": 64195,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/YungsApi-1.21.1-Fabric-5.1.9.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/yungsapi-1.21.1-fabric-5.1.9.jar",
+      "sha1": "28f46d1f21cf5b1ccb2efbccda6ba66ab2168407",
+      "size": 1284146,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
