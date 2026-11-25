@@ -279,6 +279,13 @@
       "sha1": "aa4e5ff5490b58bb55e5ed798a0a0891a783f516",
       "size": 2151699,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/segment-island-1.0.0.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/segment-island-1.0.0.jar",
+      "sha1": "bdd9e95fdc51b65600c2653b77339dda9ddd174b",
+      "size": 180438,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
