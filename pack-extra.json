@@ -321,6 +321,13 @@
       "sha1": "be9513a9807bc4513d55c07df36720029578c6cc",
       "size": 162710,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/starterkit-1.21.1-9.0.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/starterkit-1.21.1-9.0.jar",
+      "sha1": "1876017bbeac89a0640c6a9808dec423e677806c",
+      "size": 308889,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
