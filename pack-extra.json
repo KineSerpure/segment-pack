@@ -118,6 +118,13 @@
       "sha1": "5d82342a2df53fd6df712bfdd583a811572918a4",
       "size": 1157166,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/collective-1.21.1-8.87.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/collective-1.21.1-8.87.jar",
+      "sha1": "c202e2894c366b8203db435acc83ea225fb20bb2",
+      "size": 1634586,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
