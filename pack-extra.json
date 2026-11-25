@@ -286,6 +286,13 @@
       "sha1": "bdd9e95fdc51b65600c2653b77339dda9ddd174b",
       "size": 180438,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/SereneSeasons-fabric-1.21.1-10.1.0.3.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/sereneseasons-fabric-1.21.1-10.1.0.3.jar",
+      "sha1": "b2c666d1b48974d2a34658612062b7c71cebcaeb",
+      "size": 385996,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
