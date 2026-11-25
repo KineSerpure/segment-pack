@@ -202,6 +202,13 @@
       "sha1": "3ce89d28ecade5839c45a5159367ad4a99de3777",
       "size": 35425123,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/GlitchCore-fabric-1.21.1-2.1.0.2.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/glitchcore-fabric-1.21.1-2.1.0.2.jar",
+      "sha1": "128f2343a9804be4b2ed0237ce5415f9bfcf9b71",
+      "size": 329237,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
