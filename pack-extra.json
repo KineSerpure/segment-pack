@@ -307,6 +307,13 @@
       "sha1": "5bb9d246465f84afee1e2e513253a22fed312a4d",
       "size": 240750,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/sound-physics-remastered-fabric-1.21.1-1.5.1.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/sound-physics-remastered-fabric-1.21.1-1.5.1.jar",
+      "sha1": "07d9f758338ad5be38b7fa1eb32c71a7c4840ea0",
+      "size": 205671,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
