@@ -419,6 +419,13 @@
       "sha1": "109ff2fb19cd42d1731ea4ed17efbd9b5c1187dc",
       "size": 615927,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/YungsBetterCaves-1.21.1-Fabric-3.1.6.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/yungsbettercaves-1.21.1-fabric-3.1.6.jar",
+      "sha1": "5bd87a90447101b6bf71afccc0d73dd95a7b66a4",
+      "size": 527316,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
