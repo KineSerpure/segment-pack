@@ -125,6 +125,13 @@
       "sha1": "c202e2894c366b8203db435acc83ea225fb20bb2",
       "size": 1634586,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/crawl-0.14.9.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/crawl-0.14.9.jar",
+      "sha1": "a4bb730d0fb33d4009ece873604d2e07d96a0a94",
+      "size": 36975,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
