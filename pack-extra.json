@@ -230,6 +230,13 @@
       "sha1": "902a2bff99a7efb281d2befb5a3e92a0aebd3beb",
       "size": 240749,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/Kiwi-1.21.1-Fabric-15.8.8.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/kiwi-1.21.1-fabric-15.8.8.jar",
+      "sha1": "16110734225e99f7da3497368361b8ee89f98db4",
+      "size": 1557700,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
