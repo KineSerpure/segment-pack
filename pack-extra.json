@@ -391,6 +391,13 @@
       "sha1": "e5facc256ab91bc707419165d15d9e47f67b34f6",
       "size": 449735,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/villager-hats-1.7.2+1.21.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/villager-hats-1.7.2-1.21.jar",
+      "sha1": "b833d3d1c5c6226a4757269d124dcb1bd3c36234",
+      "size": 64195,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
