@@ -440,6 +440,13 @@
       "sha1": "e8b566f5c941018cbd0bf8a32aa4c4ea3a410bfd",
       "size": 1150417,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/yungsbetterstrongholds-1.21.1-fabric-5.1.3.jar",
+      "sha1": "1ef8824995ea5e4e556b354d3195a3187aa1602f",
+      "size": 587855,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
