@@ -342,6 +342,13 @@
       "sha1": "e6ab5db7b89994cb23e55de7f868731b22770a0b",
       "size": 487791,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/styledplayerlist-3.5.1+1.21.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/styledplayerlist-3.5.1-1.21.jar",
+      "sha1": "f33770ba71d3e24b46591cefee106cf0e18d9eb7",
+      "size": 364685,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
