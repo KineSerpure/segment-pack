@@ -188,6 +188,13 @@
       "sha1": "18bf1f21cd2db6dcd4e42db85eae54e2a49a48ee",
       "size": 633065,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/fsit-2.9.2+mc1.21.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/fsit-2.9.2-mc1.21.jar",
+      "sha1": "f6e61bf9c152c011477d2fb04d6ea96c37936640",
+      "size": 925667,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
