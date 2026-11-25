@@ -83,6 +83,13 @@
       "sha1": "8ffb2fa1e578cf88a7cc5e749bfcf7881faba7fc",
       "size": 98706,
       "added": "22 ноября 2026"
+    },
+    {
+      "path": "mods/appleskin-fabric-mc1.21-3.0.6.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/appleskin-fabric-mc1.21-3.0.6.jar",
+      "sha1": "97452cfadfde1f8f8c67838643019eabafa58fbb",
+      "size": 1082585,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
