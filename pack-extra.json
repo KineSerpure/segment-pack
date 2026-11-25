@@ -293,6 +293,13 @@
       "sha1": "b2c666d1b48974d2a34658612062b7c71cebcaeb",
       "size": 385996,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/simpleradio-fabric-1.21.1-4.6.7.10.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/simpleradio-fabric-1.21.1-4.6.7.10.jar",
+      "sha1": "4b20bd111e997438cea1adbecccf5cda32bfb77c",
+      "size": 1065327,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
