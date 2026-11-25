@@ -195,6 +195,13 @@
       "sha1": "f6e61bf9c152c011477d2fb04d6ea96c37936640",
       "size": 925667,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/Galosphere-1.21.1-1.5.4-Fabric.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/galosphere-1.21.1-1.5.4-fabric.jar",
+      "sha1": "3ce89d28ecade5839c45a5159367ad4a99de3777",
+      "size": 35425123,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
