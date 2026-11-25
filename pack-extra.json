@@ -244,6 +244,13 @@
       "sha1": "d6010c61d88f7b22ec75fa21d10ca2d494bd2035",
       "size": 278077,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/minecraft-cursor-fabric-3.11.2%2B1.21.1-patch.1.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/minecraft-cursor-fabric-3.11.2-2b1.21.1-patch.1.jar",
+      "sha1": "029307f5602c0a527aa34c8ab87068513b8dd20e",
+      "size": 290596,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
