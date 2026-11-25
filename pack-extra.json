@@ -90,6 +90,13 @@
       "sha1": "97452cfadfde1f8f8c67838643019eabafa58fbb",
       "size": 1082585,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/audioplayer-fabric-1.21.1-1.13.2.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/audioplayer-fabric-1.21.1-1.13.2.jar",
+      "sha1": "28778446f57145ed30721c2bb03af8a6aa6e1664",
+      "size": 791232,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
