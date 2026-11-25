@@ -412,6 +412,13 @@
       "sha1": "22baef6e01ec03f9c340ce79750954557ef0a758",
       "size": 522278,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/YungsBetterMineshafts-1.21.1-Fabric-5.1.1.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/yungsbettermineshafts-1.21.1-fabric-5.1.1.jar",
+      "sha1": "109ff2fb19cd42d1731ea4ed17efbd9b5c1187dc",
+      "size": 615927,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
