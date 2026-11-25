@@ -370,6 +370,13 @@
       "sha1": "6a54cf02a928988d91968729d8b2ba3d9f901a93",
       "size": 128928,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/VanillaBackport-fabric-1.21.1-1.2.2.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/vanillabackport-fabric-1.21.1-1.2.2.jar",
+      "sha1": "acbe2ddd1425fe608cab0cd0b9e7848c4293545a",
+      "size": 63988749,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
