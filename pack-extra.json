@@ -363,6 +363,13 @@
       "sha1": "cbaea35f0d8a7b90593d5c0fd06535a875d152a8",
       "size": 337989,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/travelers_lantern-0.2.18-1.21.1-fabric.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/travelers_lantern-0.2.18-1.21.1-fabric.jar",
+      "sha1": "6a54cf02a928988d91968729d8b2ba3d9f901a93",
+      "size": 128928,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
