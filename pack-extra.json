@@ -384,6 +384,13 @@
       "sha1": "7e9b040a68c7ec5cdf057d56a85d09d9f8e9a0db",
       "size": 4793,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/vcinteraction-fabric-1.21.1-1.0.8.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/vcinteraction-fabric-1.21.1-1.0.8.jar",
+      "sha1": "e5facc256ab91bc707419165d15d9e47f67b34f6",
+      "size": 449735,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
