@@ -258,6 +258,13 @@
       "sha1": "ee81af33a5606ef2cd057e075833d7c69836c210",
       "size": 75984,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/owo-lib-0.12.11+1.21.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/owo-lib-0.12.11-1.21.jar",
+      "sha1": "fdd29fa21091896f11de75f30591f62df7213175",
+      "size": 1154103,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
