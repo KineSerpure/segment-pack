@@ -223,6 +223,13 @@
       "sha1": "8e1ee89ede04f60aa758e7f0638592836be721c7",
       "size": 424682,
       "added": "25 ноября 2026"
+    },
+    {
+      "path": "mods/keep-some-inventory-v2.0.1.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/keep-some-inventory-v2.0.1.jar",
+      "sha1": "902a2bff99a7efb281d2befb5a3e92a0aebd3beb",
+      "size": 240749,
+      "added": "25 ноября 2026"
     }
   ],
   "allowed": [
