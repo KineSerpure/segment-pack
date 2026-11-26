@@ -482,6 +482,13 @@
       "sha1": "170e30bf93ccba6d80dd481eedddae16cb549d29",
       "size": 413302,
       "added": "26 ноября 2026"
+    },
+    {
+      "path": "mods/ItemBorders-1.21-fabric-1.2.5.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/itemborders-1.21-fabric-1.2.5.jar",
+      "sha1": "be585baafcfe1f6b972b8a819f66177d3b1b985b",
+      "size": 23909,
+      "added": "26 ноября 2026"
     }
   ],
   "allowed": [
