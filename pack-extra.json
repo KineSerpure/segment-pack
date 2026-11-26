@@ -461,6 +461,13 @@
       "sha1": "be36c9dac3b091f4c867c27c5c6c532b87c89f8c",
       "size": 140020,
       "added": "26 ноября 2026"
+    },
+    {
+      "path": "mods/Carved Wood-fabric-1.21.1-1.9.8-B.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/carved-wood-fabric-1.21.1-1.9.8-b.jar",
+      "sha1": "075cba0f21a12bf62b13ef6c58170dbfc4228244",
+      "size": 2897856,
+      "added": "26 ноября 2026"
     }
   ],
   "allowed": [
