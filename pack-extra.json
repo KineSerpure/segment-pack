@@ -510,6 +510,13 @@
       "sha1": "40207f77dcce4b19e64d2ad8ec53ecdf53147278",
       "size": 600949,
       "added": "26 ноября 2026"
+    },
+    {
+      "path": "mods/astrocraft-1.5.1+1.21.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/astrocraft-1.5.1-1.21.jar",
+      "sha1": "71648422d96b7b20ba906698c22c9a6458c5aa3d",
+      "size": 6468205,
+      "added": "26 ноября 2026"
     }
   ],
   "allowed": [
