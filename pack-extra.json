@@ -496,6 +496,13 @@
       "sha1": "d2a47d7bfdf8008bdb98aa03bc94087be4078a07",
       "size": 86697,
       "added": "26 ноября 2026"
+    },
+    {
+      "path": "mods/Prism-1.21.1-fabric-1.0.11.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/prism-1.21.1-fabric-1.0.11.jar",
+      "sha1": "feb245033bce5560ad0243b0ff519590ea9e3664",
+      "size": 61661,
+      "added": "26 ноября 2026"
     }
   ],
   "allowed": [
