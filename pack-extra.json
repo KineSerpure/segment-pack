@@ -559,6 +559,13 @@
       "sha1": "5368c9a12f181eeeae124b70395691780e5cb657",
       "size": 1574861,
       "added": "27 ноября 2026"
+    },
+    {
+      "path": "mods/epicdeathscreen-fabric-1.21.1-1.0.0.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/epicdeathscreen-fabric-1.21.1-1.0.0.jar",
+      "sha1": "f8c08d3196c8c9f78beb9c28efc5299bf1c0a357",
+      "size": 1505848,
+      "added": "27 ноября 2026"
     }
   ],
   "allowed": [
