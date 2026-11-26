@@ -556,6 +556,11 @@
   ],
   "allowed": [
     {
+      "id": "axiom",
+      "name": "Axiom",
+      "added": "26 ноября 2026"
+    },
+    {
       "id": "xaeroworldmap",
       "name": "Xaero's World Map",
       "added": "18 ноября 2026"
