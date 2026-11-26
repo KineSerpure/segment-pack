@@ -468,6 +468,13 @@
       "sha1": "075cba0f21a12bf62b13ef6c58170dbfc4228244",
       "size": 2897856,
       "added": "26 ноября 2026"
+    },
+    {
+      "path": "mods/HMI 4.3 - 1.21.(1).jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/hmi-4.3-1.21.-1.jar",
+      "sha1": "19ff289fa00d338092458265f3ed24a92a9ada5f",
+      "size": 105906,
+      "added": "26 ноября 2026"
     }
   ],
   "allowed": [
