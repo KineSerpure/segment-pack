@@ -517,6 +517,13 @@
       "sha1": "71648422d96b7b20ba906698c22c9a6458c5aa3d",
       "size": 6468205,
       "added": "26 ноября 2026"
+    },
+    {
+      "path": "mods/cave_dust-3.0.1.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/cave_dust-3.0.1.jar",
+      "sha1": "a9f2b1af1dc26b23c1f07a067b58781280e3274d",
+      "size": 257069,
+      "added": "26 ноября 2026"
     }
   ],
   "allowed": [
