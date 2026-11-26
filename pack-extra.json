@@ -503,6 +503,13 @@
       "sha1": "feb245033bce5560ad0243b0ff519590ea9e3664",
       "size": 61661,
       "added": "26 ноября 2026"
+    },
+    {
+      "path": "mods/architectury-13.0.12-fabric.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/architectury-13.0.12-fabric.jar",
+      "sha1": "40207f77dcce4b19e64d2ad8ec53ecdf53147278",
+      "size": 600949,
+      "added": "26 ноября 2026"
     }
   ],
   "allowed": [
