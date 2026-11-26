@@ -552,6 +552,13 @@
       "sha1": "16cbe81d65007971432be0a88468fa168a02ea1b",
       "size": 254412,
       "added": "26 ноября 2026"
+    },
+    {
+      "path": "mods/LuckPerms-Fabric-5.4.140.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/luckperms-fabric-5.4.140.jar",
+      "sha1": "5368c9a12f181eeeae124b70395691780e5cb657",
+      "size": 1574861,
+      "added": "27 ноября 2026"
     }
   ],
   "allowed": [
