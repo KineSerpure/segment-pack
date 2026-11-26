@@ -447,13 +447,6 @@
       "sha1": "79fcdca922854a31fd82e427a6a9d9ea1dbde162",
       "size": 232623,
       "added": "25 ноября 2026"
-    },
-    {
-      "path": "mods/BrewinAndChewin-fabric-4.4.2+1.21.1.jar",
-      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/brewinandchewin-fabric-4.4.2-1.21.1.jar",
-      "sha1": "d7793edb4ef27248f0a6dc0610c6d041cca729a3",
-      "size": 1544270,
-      "added": "26 ноября 2026"
     }
   ],
   "allowed": [
