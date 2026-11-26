@@ -566,6 +566,13 @@
       "sha1": "f8c08d3196c8c9f78beb9c28efc5299bf1c0a357",
       "size": 1505848,
       "added": "27 ноября 2026"
+    },
+    {
+      "path": "mods/lambdynamiclights-4.8.11+1.21.1.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/lambdynamiclights-4.8.11-1.21.1.jar",
+      "sha1": "7b5afc75a094b4e8a7118f9856eec959b10f2422",
+      "size": 2023375,
+      "added": "27 ноября 2026"
     }
   ],
   "allowed": [
