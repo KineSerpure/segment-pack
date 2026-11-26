@@ -524,6 +524,13 @@
       "sha1": "a9f2b1af1dc26b23c1f07a067b58781280e3274d",
       "size": 257069,
       "added": "26 ноября 2026"
+    },
+    {
+      "path": "mods/continuity-3.0.0+1.21.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/continuity-3.0.0-1.21.jar",
+      "sha1": "c7f09b53512604c2ba6803b1247bc70e4d0f8f8c",
+      "size": 1014044,
+      "added": "26 ноября 2026"
     }
   ],
   "allowed": [
