@@ -538,6 +538,13 @@
       "sha1": "32271790c96dfcb71134f6a40e8a5bf8179375f3",
       "size": 4134713,
       "added": "26 ноября 2026"
+    },
+    {
+      "path": "mods/elytratrails-1.4.7.5-1.21.1.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/elytratrails-1.4.7.5-1.21.1.jar",
+      "sha1": "c987e76af224ce8754304f219bb64dbe5ba6f852",
+      "size": 281624,
+      "added": "26 ноября 2026"
     }
   ],
   "allowed": [
