@@ -580,6 +580,13 @@
       "sha1": "bc902bd297c54d50b1ed7ffd2036464c970b0703",
       "size": 2845602,
       "added": "27 ноября 2026"
+    },
+    {
+      "path": "mods/Chimes-v2.1.1-1.21.1-Fabric (1).jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/chimes-v2.1.1-1.21.1-fabric-1.jar",
+      "sha1": "c27f98b4ac87d266db78822d5b8bb0828e1b296d",
+      "size": 12472949,
+      "added": "27 ноября 2026"
     }
   ],
   "allowed": [
