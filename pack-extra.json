@@ -545,6 +545,13 @@
       "sha1": "c987e76af224ce8754304f219bb64dbe5ba6f852",
       "size": 281624,
       "added": "26 ноября 2026"
+    },
+    {
+      "path": "mods/enchanted-vertical-slabs-2.3.2-fabric-mc1.21.jar",
+      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/enchanted-vertical-slabs-2.3.2-fabric-mc1.21.jar",
+      "sha1": "16cbe81d65007971432be0a88468fa168a02ea1b",
+      "size": 254412,
+      "added": "26 ноября 2026"
     }
   ],
   "allowed": [
