@@ -22,13 +22,6 @@
       "added": "17 ноября 2026"
     },
     {
-      "path": "mods/OmniIsle-0.5.1+mc1.21.1-fabric.jar",
-      "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/omniisle-0.5.1-mc1.21.1-fabric.jar",
-      "sha1": "7a0efbac6d23556fd329113757ca6cd22fced7a4",
-      "size": 2057535,
-      "added": "18 ноября 2026"
-    },
-    {
       "path": "mods/drippyloadingscreen_fabric_3.1.5_MC_1.21.1.jar",
       "url": "https://github.com/KineSerpure/segment-pack/releases/download/pack-files/drippyloadingscreen_fabric_3.1.5_mc_1.21.1.jar",
       "sha1": "e47200680bf129bcddf514a70df2949fe03a146f",
